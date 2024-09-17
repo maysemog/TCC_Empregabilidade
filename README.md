@@ -1,2 +1,3 @@
 # TCC_Empregabilidade
-TCC
+Design: Paulo, Marina e 02
+Cadastro, chatIa e Login (adm, usuário): Mayara, Vitória, Raissa e Nicolas
